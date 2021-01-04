@@ -1,5 +1,6 @@
 {
   "name": "bargraph",
   "description": "Displays a vertical bar graph on the micro:bit LED display.",
-  "image": "./extension.png"
+  "image": "./extension.png",
+  "files": ["./bargraph.py"]
 }
